@@ -1,6 +1,6 @@
 [package]
 name = "tcp-echo-server"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Daisuke KANDA <dai1975@gmail.com>"]
 
 [dependencies]
